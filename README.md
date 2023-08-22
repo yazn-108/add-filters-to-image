@@ -1,2 +1,2 @@
 # add-filters-to-image
-Editing images using javascript
+Title of project creation course: photo editor using javascript
